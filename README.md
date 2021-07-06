@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuzsubedi
+- 👋 Hi, I’m Anuz Subedi.
 - 👀 I’m interested in Java (esp. Minecraft) and Dart.
 - 🌱 I’m currently learning Flutter and Discord Bot Development. 
 - 💞️ I’m looking to collaborate on nothing as of now
