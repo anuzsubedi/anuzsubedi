@@ -1,37 +1,57 @@
-# 👋 Hi, I'm Anuz Subedi
+<div align="center">
 
-## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-- 🌱 I'm currently learning and growing as a software developer
-- 👨‍💻 Working on exciting projects that challenge me
-- 🤝 Open to collaborating on innovative projects
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=hey%2C+I'm+Anuz.;learning+as+I+go." alt="Typing SVG" />
+</h1>
 
-## 🛠 Tech Stack
+<p>Full Stack & Front End Developer &nbsp;·&nbsp; Ontario, Canada</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/anuz.dev-0f0c29?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://anuz.dev)
+[![Blog](https://img.shields.io/badge/blog.anuz.dev-0f0c29?style=for-the-badge&logo=hashnode&logoColor=58a6ff)](https://blog.anuz.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0f0c29?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/anuzsubedi)
+[![Email](https://img.shields.io/badge/mail@anuz.dev-0f0c29?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mail@anuz.dev)
 
-### Frameworks
+</div>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next-dot-js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
+---
 
-## 📊 GitHub Stats
+```typescript
+const anuz = {
+  stack:     ["React", "Next.js", "TypeScript", "Tailwind", "Node.js", "PostgreSQL"],
+  tooling:   ["Docker", "GitHub Actions", "Figma", "Vercel", "Playwright", "Jest"],
+  approach:  "write the code myself. use AI to remove friction, not replace thinking.",
+  currently: "looking for a team to build great things with"
+}
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuzsubedi&show_icons=true&theme=dark" alt="GitHub Stats" />
+---
 
-## 🤝 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuz)
+### languages & frameworks
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anuzsubedi)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Tailwind](https://img.shields.io/badge/Tailwind-20232a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Flutter](https://img.shields.io/badge/Flutter-20232a?style=flat-square&logo=flutter&logoColor=02569B)
+![Docker](https://img.shields.io/badge/Docker-20232a?style=flat-square&logo=docker&logoColor=2496ED)
+![Figma](https://img.shields.io/badge/Figma-20232a?style=flat-square&logo=figma&logoColor=F24E1E)
 
+---
+
+### by the numbers
+
+<img src="https://github-readme-stats.vercel.app/api?username=anuzsubedi&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuzsubedi&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="155" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuzsubedi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
