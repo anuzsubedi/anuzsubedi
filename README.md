@@ -2,7 +2,7 @@
 
 <img src="assets/kawaii.svg" width="100%" alt="hello, i'm anuz. welcome to my little corner of github." />
 
-<a href="https://profile.stripe.com/@anuz"><img src="assets/link-stripe.svg" width="48%" alt="Buy me a coffee — via Stripe" /></a>
+<a href="https://profile.stripe.com/@anuz"><img src="assets/coffee-stripe.svg" width="48%" alt="Buy me a coffee — via Stripe" /></a>
 <a href="mailto:hire@anuz.dev"><img src="assets/link-hire.svg" width="48%" alt="Hire me — hire@anuz.dev" /></a>
 <br>
 <a href="https://anuz.dev"><img src="assets/link-website.svg" width="48%" alt="My website — anuz.dev" /></a>
@@ -22,17 +22,16 @@ i make things i need and share them with others who might find them useful too.
 <a href="https://splitt.fund"><img src="assets/link-splitt.svg" width="100%" alt="splitt.fund — shared expenses, without the mental math" /></a>
 
 split a dinner bill, keep track of a trip, or figure out who owes what.<br>
-this is the project i'm proudest of. the source is private; [the app is here](https://splitt.fund).
+this is the project i'm proudest of. the source is private. tap the banner to take a look.
 
 <br>
 
 ### a few more things on the shelf
 
-<a href="https://github.com/anuzsubedi/quickinbox-mobile"><img src="assets/link-inbox.svg" width="48%" alt="QuickInbox Mobile — native Android and iOS clients for self-hosted email" /></a>
-<a href="https://github.com/anuzsubedi/quivnote"><img src="assets/link-quivnote.svg" width="48%" alt="Quivnote — a native macOS menu-bar Markdown notebook" /></a>
+<a href="https://github.com/anuzsubedi/quickinbox-mobile"><img src="assets/shelf-inbox.svg" width="100%" alt="QuickInbox Mobile — native Android and iOS clients for self-hosted email" /></a>
+<a href="https://github.com/anuzsubedi/quivnote"><img src="assets/shelf-quivnote.svg" width="100%" alt="Quivnote — a native macOS menu-bar Markdown notebook" /></a>
 <br>
-<a href="https://github.com/anuzsubedi/xer"><img src="assets/link-xer.svg" width="48%" alt="xer — build and run Xcode apps across devices" /></a>
-<a href="https://markdown.anuz.dev"><img src="assets/link-markdown.svg" width="48%" alt="Try Markdown Editor — write, preview, and export documents in your browser" /></a>
+<a href="https://github.com/anuzsubedi/xer"><img src="assets/shelf-xer.svg" width="100%" alt="xer — build and run Xcode apps across devices" /></a>
 
 
 <br>
@@ -64,6 +63,5 @@ this is the project i'm proudest of. the source is private; [the app is here](ht
 
 thanks for stopping by. make yourself at home.
 
-[anuz.dev](https://anuz.dev) &nbsp; · &nbsp; [hire@anuz.dev](mailto:hire@anuz.dev) &nbsp; · &nbsp; [stripe](https://profile.stripe.com/@anuz)
 
 </div>
