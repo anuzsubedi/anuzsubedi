@@ -1,79 +1,67 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Hey, I'm Anuz. I build for the web, your phone, and your Mac." />
+<img src="assets/kawaii.svg" width="100%" alt="hello, i'm anuz. welcome to my little corner of github. A sleepy bunny and a smiling cup of coffee." />
 
-<a href="https://anuz.dev"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=101223" alt="Portfolio" /></a>
-<a href="https://splitt.fund"><img src="https://img.shields.io/badge/SPLITT.FUND-A78BFA?style=for-the-badge&amp;logo=stackblitz&amp;logoColor=101223" alt="splitt.fund" /></a>
-<a href="mailto:hire@anuz.dev"><img src="https://img.shields.io/badge/LET'S_BUILD-F472B6?style=for-the-badge&amp;logo=maildotru&amp;logoColor=101223" alt="Work with me" /></a>
-
-<br><br>
-
-**Developer in Ontario, Canada.**<br>
-Turning everyday problems into web products, native apps, and useful little tools.
+[my website](https://anuz.dev) &nbsp; · &nbsp; [splitt](https://splitt.fund) &nbsp; · &nbsp; [say hello](mailto:hire@anuz.dev)
 
 </div>
 
 <br>
 
-## 🚀 Currently building: [splitt.fund](https://splitt.fund)
+i'm a developer in ontario, canada. i make things for the web, phones, and macs.
+a lot of them are little tools for everyday things: sharing a bill, checking email, or getting a thought down before it wanders off.
 
-### Shared plans. Fair shares. Less mental math.
+### my biggest little project
 
-My flagship project brings shared expenses and balances into one place, so friends can keep track of who owes what.
+**[splitt.fund](https://splitt.fund)**
 
-<a href="https://splitt.fund"><img src="https://img.shields.io/badge/EXPLORE_SPLITT_↗-A78BFA?style=for-the-badge" alt="Explore splitt.fund" /></a>
-<img src="https://img.shields.io/badge/SOURCE-PRIVATE-252A41?style=for-the-badge&amp;labelColor=171B2D" alt="Source code is private" />
+an app for shared expenses. keep track of what everyone paid and who owes what, whether it's dinner with friends or a weekend away.
+
+this is the project i'm proudest of. the code is private, but [you can visit it here](https://splitt.fund).
+
+### a few more things on the shelf
+
+| | |
+| :--- | :--- |
+| **[quickinbox mobile](https://github.com/anuzsubedi/quickinbox-mobile)** | your self-hosted inbox, on android and ios. [get it on google play](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) |
+| **[quivnote](https://github.com/anuzsubedi/quivnote)** | a little markdown notebook that lives in your mac's menu bar. |
+| **[xer](https://github.com/anuzsubedi/xer)** | a workspace for building and running xcode apps across your devices. |
+| **[remote stats](https://github.com/anuzsubedi/remote-stats)** | a dashboard to see how your computer is doing. |
+| **[markdown editor](https://markdown.anuz.dev)** | somewhere to write, preview, and export a document. works in your browser. |
+
+### things in my pencil case
+
+**web** &nbsp; typescript, react, next.js, tailwind<br>
+**native** &nbsp; swift, swiftui, appkit, kotlin, jetpack compose<br>
+**behind the scenes** &nbsp; node.js, python, postgresql, docker, github actions
+
+<details>
+<summary>a peek at my github activity</summary>
+<br>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=anuzsubedi&amp;hide_border=true&amp;background=FFF7EF&amp;stroke=E4BFC9&amp;ring=B69ACB&amp;fire=C790A6&amp;currStreakNum=715968&amp;sideNums=715968&amp;currStreakLabel=715968&amp;sideLabels=715968&amp;dates=8B7582" width="65%" alt="My GitHub contribution streak statistics" />
+</p>
+</details>
 
 <br>
-
-## ⚡ From my workbench
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| 📬 **[QuickInbox Mobile](https://github.com/anuzsubedi/quickinbox-mobile)** | Native email clients for your self-hosted inbox. [Google Play ↗](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) | Kotlin · Compose · SwiftUI |
-| 🛠️ **[xer](https://github.com/anuzsubedi/xer)** | Build and launch Xcode apps across Macs, simulators, and devices. | Swift · SwiftUI |
-| 📝 **[Quivnote](https://github.com/anuzsubedi/quivnote)** | A Markdown notebook tucked into your Mac's menu bar. | Swift · AppKit |
-| 📊 **[Remote Stats](https://github.com/anuzsubedi/remote-stats)** | A live dashboard for your system's vitals. [Backend ↗](https://github.com/anuzsubedi/remote-stats-server) | React · TypeScript · Python |
-| ✍️ **[Markdown Editor](https://github.com/anuzsubedi/markdown-editor)** | Write, preview, and export documents in the browser. [Try it ↗](https://markdown.anuz.dev) | React · TypeScript |
-
-<br>
-
-## 🧩 The toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,swift,kotlin,nodejs,python,postgres,docker,git,githubactions&amp;perline=6" alt="TypeScript, React, Next.js, Tailwind, Swift, Kotlin, Node.js, Python, PostgreSQL, Docker, Git, GitHub Actions" />
-
-<br><br>
-
-**Web to native. Interface to backend.**
-
-</div>
-
-<br>
-
-## 📈 Behind the commits
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anuzsubedi&amp;theme=tokyonight&amp;hide_border=true" width="65%" alt="Anuz's GitHub contribution streak statistics" />
-
-
-
-</div>
 
 ---
 
 <div align="center">
 
-### Build with me. Or buy the next coffee. ☕
+### thanks for stopping by.
 
-<a href="https://buymeacoffee.com/anuz"><img src="assets/coffee.svg" width="230" height="60" alt="Buy me a coffee" /></a>
+have a project in mind? i'd love to hear about it.<br>
+or, if something i've made has been useful, you can buy me a coffee.
+
+<br>
+
+<a href="https://buymeacoffee.com/anuz"><img src="assets/coffee.svg" width="230" height="55" alt="Buy me a coffee" /></a>
 &nbsp;
-<a href="mailto:hire@anuz.dev"><img src="assets/hire.svg" width="230" height="60" alt="Hire me — hire@anuz.dev" /></a>
+<a href="mailto:hire@anuz.dev"><img src="assets/hire.svg" width="230" height="55" alt="Hire me — hire@anuz.dev" /></a>
 
 <br><br>
 
-**[anuz.dev](https://anuz.dev)** &nbsp; · &nbsp; **[hire@anuz.dev](mailto:hire@anuz.dev)**
+[anuz.dev](https://anuz.dev) &nbsp; · &nbsp; [hire@anuz.dev](mailto:hire@anuz.dev)
 
 </div>
