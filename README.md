@@ -2,7 +2,7 @@
 
 <img src="assets/kawaii.svg" width="100%" alt="hello, i'm anuz. welcome to my little corner of github." />
 
-<a href="https://profile.stripe.com/@anuz"><img src="assets/link-stripe.svg" width="48%" alt="Find me on Stripe — profile.stripe.com/@anuz" /></a>
+<a href="https://profile.stripe.com/@anuz"><img src="assets/link-stripe.svg" width="48%" alt="Buy me a coffee — via Stripe" /></a>
 <a href="mailto:hire@anuz.dev"><img src="assets/link-hire.svg" width="48%" alt="Hire me — hire@anuz.dev" /></a>
 <br>
 <a href="https://anuz.dev"><img src="assets/link-website.svg" width="48%" alt="My website — anuz.dev" /></a>
