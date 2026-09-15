@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" fill="none">
+<title>Hey, I'm Anuz. I build for the web, your phone, and your Mac.</title>
+<defs><linearGradient id="g"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient><pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#A78BFA" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="350" rx="22" fill="#101223"/><rect width="1200" height="350" rx="22" fill="url(#p)"/>
+<g font-family="monospace" font-size="90" fill="#A78BFA" opacity=".14"><text x="57" y="146">{</text><text x="1065" y="285">}</text></g>
+<g stroke="url(#g)" opacity=".6"><circle cx="110" cy="275" r="24"><animate attributeName="r" values="24;32;24" dur="5s" repeatCount="indefinite"/></circle><path d="M1040 74h40m-20-20v40"><animateTransform attributeName="transform" type="rotate" from="0 1060 74" to="360 1060 74" dur="18s" repeatCount="indefinite"/></path></g>
+<g text-anchor="middle" font-family="Arial, Helvetica, sans-serif"><text x="600" y="61" fill="#7DD3FC" font-size="14" letter-spacing="5">IDEAS → INTERFACES → PRODUCTS</text><text x="600" y="155" fill="url(#g)" font-size="78" font-weight="800">hey, I'm Anuz.</text><text x="600" y="213" fill="#D6D9F0" font-size="25">I build for the web, your phone, and your Mac.</text><text x="600" y="264" fill="#9CA6C8" font-family="monospace" font-size="17">TypeScript · Swift · Kotlin · a lot of curiosity</text></g>
+<rect x="400" y="307" width="400" height="3" rx="1.5" fill="url(#g)"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></rect>
+</svg>

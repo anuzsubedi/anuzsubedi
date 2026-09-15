@@ -1,66 +1,79 @@
-<a href="https://anuz.dev"><img src="assets/header.svg" width="100%" alt="Anuz Subedi — Small details. Better software. Web experiences, native apps, and tools for everyday life." /></a>
+<div align="center">
 
-<p align="center">
-  <a href="https://anuz.dev"><strong>PORTFOLIO ↗</strong></a> &nbsp; &nbsp; · &nbsp; &nbsp;
-  <a href="https://splitt.fund"><strong>SPLITT.FUND ↗</strong></a> &nbsp; &nbsp; · &nbsp; &nbsp;
-  <a href="mailto:hire@anuz.dev"><strong>WORK WITH ME ↗</strong></a>
-</p>
+<img src="assets/hero.svg" width="100%" alt="Hey, I'm Anuz. I build for the web, your phone, and your Mac." />
 
-<br>
+<a href="https://anuz.dev"><img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=101223" alt="Portfolio" /></a>
+<a href="https://splitt.fund"><img src="https://img.shields.io/badge/SPLITT.FUND-A78BFA?style=for-the-badge&amp;logo=stackblitz&amp;logoColor=101223" alt="splitt.fund" /></a>
+<a href="mailto:hire@anuz.dev"><img src="https://img.shields.io/badge/LET'S_BUILD-F472B6?style=for-the-badge&amp;logo=maildotru&amp;logoColor=101223" alt="Work with me" /></a>
 
-I'm **Anuz**, a developer in Ontario, Canada. I build web products and native apps, with a focus on thoughtful interfaces and the details that make software feel good to use.
+<br><br>
 
-### The main project
+**Developer in Ontario, Canada.**<br>
+Turning everyday problems into web products, native apps, and useful little tools.
 
-<a href="https://splitt.fund"><img src="assets/splitt.svg" width="100%" alt="splitt. — Shared expenses, made simple. My flagship project. Explore splitt.fund; source code is private." /></a>
-
-**[splitt.fund ↗](https://splitt.fund)** — My flagship project: an app for splitting shared expenses and keeping track of balances between friends. **Private source · [Visit the product](https://splitt.fund)**
+</div>
 
 <br>
 
-### More things I've built
+## 🚀 Currently building: [splitt.fund](https://splitt.fund)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/anuzsubedi/quickinbox-mobile"><img src="assets/quickinbox.svg" width="100%" alt="QuickInbox Mobile — Native Android and iOS email clients. Kotlin, Jetpack Compose, and SwiftUI." /></a>
-<p>Native clients for self-hosted email, with QR pairing, threaded conversations, and secure credential storage.</p>
-<p><a href="https://github.com/anuzsubedi/quickinbox-mobile"><strong>Code ↗</strong></a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=dev.anuz.quickinbox">Google Play ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/anuzsubedi/xer"><img src="assets/xer.svg" width="100%" alt="xer — A native macOS workbench for Xcode builds, simulators, and connected devices." /></a>
-<p>Build, install, launch, and monitor Xcode apps across your Mac, simulators, and connected devices.</p>
-<p><a href="https://github.com/anuzsubedi/xer"><strong>Code ↗</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/anuzsubedi/quivnote"><img src="assets/quivnote.svg" width="100%" alt="Quivnote — A native macOS menu-bar Markdown notebook. Swift, SwiftUI, and AppKit." /></a>
-<p>A shortcut away from your next note. A menu-bar notebook with Markdown editing and a searchable local library.</p>
-<p><a href="https://github.com/anuzsubedi/quivnote"><strong>Code ↗</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/anuzsubedi/remote-stats"><img src="assets/remote-stats.svg" width="100%" alt="Remote Stats — System monitoring with a React and TypeScript dashboard and Python backend." /></a>
-<p>A system monitoring dashboard for CPU, memory, storage, network, and processes, backed by a Python API.</p>
-<p><a href="https://github.com/anuzsubedi/remote-stats"><strong>Frontend ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/anuzsubedi/remote-stats-server">Backend ↗</a></p>
-</td>
-</tr>
-</table>
+### Shared plans. Fair shares. Less mental math.
 
-<sub>Project illustrations are stylized, not application screenshots.</sub>
+My flagship project brings shared expenses and balances into one place, so friends can keep track of who owes what.
 
-**Also worth a look:** [Markdown Editor](https://markdown.anuz.dev) — write, preview, and export documents in your browser. [Source ↗](https://github.com/anuzsubedi/markdown-editor)
+<a href="https://splitt.fund"><img src="https://img.shields.io/badge/EXPLORE_SPLITT_↗-A78BFA?style=for-the-badge" alt="Explore splitt.fund" /></a>
+<img src="https://img.shields.io/badge/SOURCE-PRIVATE-252A41?style=for-the-badge&amp;labelColor=171B2D" alt="Source code is private" />
 
 <br>
 
-### My toolkit
+## ⚡ From my workbench
 
-**Web** &nbsp; TypeScript · React · Next.js · Tailwind CSS<br>
-**Native** &nbsp; Swift · SwiftUI · AppKit · Kotlin · Jetpack Compose<br>
-**Backend & tools** &nbsp; Node.js · Python · PostgreSQL · Docker · GitHub Actions
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| 📬 **[QuickInbox Mobile](https://github.com/anuzsubedi/quickinbox-mobile)** | Native email clients for your self-hosted inbox. [Google Play ↗](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) | Kotlin · Compose · SwiftUI |
+| 🛠️ **[xer](https://github.com/anuzsubedi/xer)** | Build and launch Xcode apps across Macs, simulators, and devices. | Swift · SwiftUI |
+| 📝 **[Quivnote](https://github.com/anuzsubedi/quivnote)** | A Markdown notebook tucked into your Mac's menu bar. | Swift · AppKit |
+| 📊 **[Remote Stats](https://github.com/anuzsubedi/remote-stats)** | A live dashboard for your system's vitals. [Backend ↗](https://github.com/anuzsubedi/remote-stats-server) | React · TypeScript · Python |
+| ✍️ **[Markdown Editor](https://github.com/anuzsubedi/markdown-editor)** | Write, preview, and export documents in the browser. [Try it ↗](https://markdown.anuz.dev) | React · TypeScript |
 
 <br>
 
-<a href="mailto:hire@anuz.dev"><img src="assets/footer.svg" width="100%" alt="Have something worth building? Let's talk — hire@anuz.dev" /></a>
+## 🧩 The toolkit
 
-<p align="center"><a href="https://anuz.dev">anuz.dev</a> &nbsp; / &nbsp; <a href="mailto:mail@anuz.dev">mail@anuz.dev</a></p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,swift,kotlin,nodejs,python,postgres,docker,git,githubactions&amp;perline=6" alt="TypeScript, React, Next.js, Tailwind, Swift, Kotlin, Node.js, Python, PostgreSQL, Docker, Git, GitHub Actions" />
+
+<br><br>
+
+**Web to native. Interface to backend.**
+
+</div>
+
+<br>
+
+## 📈 Behind the commits
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anuzsubedi&amp;theme=tokyonight&amp;hide_border=true" width="65%" alt="Anuz's GitHub contribution streak statistics" />
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+### Build with me. Or buy the next coffee. ☕
+
+<a href="https://buymeacoffee.com/anuz"><img src="assets/coffee.svg" width="230" height="60" alt="Buy me a coffee" /></a>
+&nbsp;
+<a href="mailto:hire@anuz.dev"><img src="assets/hire.svg" width="230" height="60" alt="Hire me — hire@anuz.dev" /></a>
+
+<br><br>
+
+**[anuz.dev](https://anuz.dev)** &nbsp; · &nbsp; **[hire@anuz.dev](mailto:hire@anuz.dev)**
+
+</div>
