@@ -1,59 +1,57 @@
-<div align="center">
+<a href="https://anuz.dev">
+  <img src="./assets/header.svg" alt="Anuz Subedi — Thoughtful interfaces. Useful software. Web, iOS, Android, and macOS." width="100%" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+<p align="center">
+  <a href="https://anuz.dev"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:mail@anuz.dev">Say hello</a> &nbsp; / &nbsp;
+  <a href="mailto:hire@anuz.dev">Work with me</a>
+</p>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=hey%2C+I'm+Anuz.;learning+as+I+go." alt="Typing SVG" />
-</h1>
+## Hey, I'm Anuz.
 
-<p>Full Stack & Front End Developer &nbsp;·&nbsp; Ontario, Canada</p>
+I'm a developer based in Ontario, Canada, building across the web and Apple and Android platforms. My projects range from native email clients to a Markdown notebook that lives in the menu bar.
 
-[![Portfolio](https://img.shields.io/badge/anuz.dev-0f0c29?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://anuz.dev)
-[![Blog](https://img.shields.io/badge/blog.anuz.dev-0f0c29?style=for-the-badge&logo=hashnode&logoColor=58a6ff)](https://blog.anuz.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0f0c29?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/anuzsubedi)
-[![Email](https://img.shields.io/badge/mail@anuz.dev-0f0c29?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mail@anuz.dev)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F5C16C?style=for-the-badge&logo=buymeacoffee&logoColor=111111)](https://buymeacoffee.com/anuz)
-[![Hire me](https://img.shields.io/badge/Hire%20me-hire%40anuz.dev-302b63?style=for-the-badge&logo=handshake&logoColor=58A6FF)](mailto:hire@anuz.dev)
+I like software with a clear purpose, a considered interface, and small details that make everyday tasks easier.
 
-</div>
+## Selected work
+
+### [QuickInbox Mobile ↗](https://github.com/anuzsubedi/quickinbox-mobile)
+
+**Your self-hosted inbox, on your phone.** Native Android and iOS clients for [QuickInbox](https://github.com/DivinPrince/quickinbox), with QR pairing, threaded conversations, attachments, and secure credential storage.
+
+`Kotlin` `Jetpack Compose` `Swift` `SwiftUI`<br>
+[Explore the code](https://github.com/anuzsubedi/quickinbox-mobile) · [Get it on Google Play](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox)
+
+### [xer ↗](https://github.com/anuzsubedi/xer)
+
+**One workspace for your Xcode destinations.** A native macOS workbench to build, install, launch, and monitor apps across your Mac, simulators, and connected devices, with live build and application output.
+
+`Swift` `SwiftUI` `Xcode tooling`<br>
+[Explore the code](https://github.com/anuzsubedi/xer)
+
+### [Quivnote ↗](https://github.com/anuzsubedi/quivnote)
+
+**A place for the thought before it disappears.** A macOS menu-bar notebook with a global shortcut, editing tabs, Markdown preview, and a searchable local library. Notes stay in plaintext files on your Mac.
+
+`Swift` `SwiftUI` `AppKit` `Markdown`<br>
+[Explore the code](https://github.com/anuzsubedi/quivnote)
+
+### [Markdown Editor ↗](https://github.com/anuzsubedi/markdown-editor)
+
+**From a blank page to a ready-to-share document.** A browser-based Markdown editor with a live preview, syntax highlighting, and PDF export with adjustable margins and page breaks.
+
+`TypeScript` `React` `Tailwind CSS` `Vite`<br>
+[Try it live](https://markdown.anuz.dev) · [Explore the code](https://github.com/anuzsubedi/markdown-editor)
+
+## Tools I build with
+
+| Web | Native | Behind the scenes |
+| :--- | :--- | :--- |
+| TypeScript · React · Next.js | Swift · SwiftUI · AppKit | Node.js · PostgreSQL |
+| Tailwind CSS · Vite | Kotlin · Jetpack Compose | Git · Docker · GitHub Actions |
 
 ---
 
-```typescript
-const anuz = {
-  stack:     ["React", "Next.js", "TypeScript", "Tailwind", "Node.js", "PostgreSQL"],
-  tooling:   ["Docker", "GitHub Actions", "Figma", "Vercel", "Playwright", "Jest"],
-  approach:  "write the code myself. use AI to remove friction, not replace thinking.",
-  currently: "looking for a team to build great things with"
-}
-```
-
----
-
-<div align="center">
-
-### languages & frameworks
-
-![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Tailwind](https://img.shields.io/badge/Tailwind-20232a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Flutter](https://img.shields.io/badge/Flutter-20232a?style=flat-square&logo=flutter&logoColor=02569B)
-![Docker](https://img.shields.io/badge/Docker-20232a?style=flat-square&logo=docker&logoColor=2496ED)
-![Figma](https://img.shields.io/badge/Figma-20232a?style=flat-square&logo=figma&logoColor=F24E1E)
-
----
-
-### by the numbers
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuzsubedi&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuzsubedi&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="155" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuzsubedi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
+**Have something worth building?** [Let's talk →](mailto:hire@anuz.dev)<br>
+Explore more at **[anuz.dev](https://anuz.dev)**, or [browse my repositories](https://github.com/anuzsubedi?tab=repositories).
