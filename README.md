@@ -32,10 +32,15 @@ this is the project i'm proudest of. the source is private; [the app is here](ht
 <a href="https://github.com/anuzsubedi/quivnote"><img src="assets/link-quivnote.svg" width="48%" alt="Quivnote — a native macOS menu-bar Markdown notebook" /></a>
 <br>
 <a href="https://github.com/anuzsubedi/xer"><img src="assets/link-xer.svg" width="48%" alt="xer — build and run Xcode apps across devices" /></a>
-<br>
-<a href="https://markdown.anuz.dev"><img src="assets/link-markdown.svg" width="100%" alt="Try Markdown Editor — write, preview, and export documents in your browser" /></a>
+<a href="https://markdown.anuz.dev"><img src="assets/link-markdown.svg" width="48%" alt="Try Markdown Editor — write, preview, and export documents in your browser" /></a>
 
-<sub>[quickinbox on google play](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) · [markdown editor source](https://github.com/anuzsubedi/markdown-editor)</sub>
+
+<br>
+
+### little apps, out in the world
+
+<a href="https://play.google.com/store/apps/developer?id=anuz"><img src="assets/link-google-play.svg" width="48%" alt="Google Play — browse apps by anuz" /></a>
+<a href="https://apps.apple.com/developer/anuz-subedi/id1894033031"><img src="assets/link-app-store.svg" width="48%" alt="App Store — browse apps by Anuz Subedi" /></a>
 
 <br>
 
