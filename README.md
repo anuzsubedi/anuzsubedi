@@ -12,6 +12,8 @@
 [![Blog](https://img.shields.io/badge/blog.anuz.dev-0f0c29?style=for-the-badge&logo=hashnode&logoColor=58a6ff)](https://blog.anuz.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0f0c29?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/anuzsubedi)
 [![Email](https://img.shields.io/badge/mail@anuz.dev-0f0c29?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mail@anuz.dev)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F5C16C?style=for-the-badge&logo=buymeacoffee&logoColor=111111)](https://buymeacoffee.com/anuz)
+[![Hire me](https://img.shields.io/badge/Hire%20me-hire%40anuz.dev-302b63?style=for-the-badge&logo=handshake&logoColor=58A6FF)](mailto:hire@anuz.dev)
 
 </div>
 
