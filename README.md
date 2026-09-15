@@ -1,33 +1,44 @@
 <div align="center">
 
-<img src="assets/kawaii.svg" width="100%" alt="hello, i'm anuz. welcome to my little corner of github. A sleepy bunny and a smiling cup of coffee." />
+<img src="assets/kawaii.svg" width="100%" alt="hello, i'm anuz. welcome to my little corner of github." />
 
-[my website](https://anuz.dev) &nbsp; · &nbsp; [splitt](https://splitt.fund) &nbsp; · &nbsp; [say hello](mailto:hire@anuz.dev)
+<a href="https://profile.stripe.com/@anuz"><img src="assets/link-stripe.svg" width="48%" alt="Find me on Stripe — profile.stripe.com/@anuz" /></a>
+<a href="mailto:hire@anuz.dev"><img src="assets/link-hire.svg" width="48%" alt="Hire me — hire@anuz.dev" /></a>
+<br>
+<a href="https://anuz.dev"><img src="assets/link-website.svg" width="48%" alt="My website — anuz.dev" /></a>
+<a href="https://github.com/anuzsubedi?tab=repositories"><img src="assets/link-repos.svg" width="48%" alt="Browse my public repositories" /></a>
+
+<br><br>
+
+i'm anuz, an independent developer.<br>
+i make things i need and share them with others who might find them useful too.
 
 </div>
 
 <br>
 
-i'm a developer in ontario, canada. i make things for the web, phones, and macs.
-a lot of them are little tools for everyday things: sharing a bill, checking email, or getting a thought down before it wanders off.
-
 ### my biggest little project
 
-**[splitt.fund](https://splitt.fund)**
+<a href="https://splitt.fund"><img src="assets/link-splitt.svg" width="100%" alt="splitt.fund — shared expenses, without the mental math" /></a>
 
-an app for shared expenses. keep track of what everyone paid and who owes what, whether it's dinner with friends or a weekend away.
+split a dinner bill, keep track of a trip, or figure out who owes what.<br>
+this is the project i'm proudest of. the source is private; [the app is here](https://splitt.fund).
 
-this is the project i'm proudest of. the code is private, but [you can visit it here](https://splitt.fund).
+<br>
 
 ### a few more things on the shelf
 
-| | |
-| :--- | :--- |
-| **[quickinbox mobile](https://github.com/anuzsubedi/quickinbox-mobile)** | your self-hosted inbox, on android and ios. [get it on google play](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) |
-| **[quivnote](https://github.com/anuzsubedi/quivnote)** | a little markdown notebook that lives in your mac's menu bar. |
-| **[xer](https://github.com/anuzsubedi/xer)** | a workspace for building and running xcode apps across your devices. |
-| **[remote stats](https://github.com/anuzsubedi/remote-stats)** | a dashboard to see how your computer is doing. |
-| **[markdown editor](https://markdown.anuz.dev)** | somewhere to write, preview, and export a document. works in your browser. |
+<a href="https://github.com/anuzsubedi/quickinbox-mobile"><img src="assets/link-inbox.svg" width="48%" alt="QuickInbox Mobile — native Android and iOS clients for self-hosted email" /></a>
+<a href="https://github.com/anuzsubedi/quivnote"><img src="assets/link-quivnote.svg" width="48%" alt="Quivnote — a native macOS menu-bar Markdown notebook" /></a>
+<br>
+<a href="https://github.com/anuzsubedi/xer"><img src="assets/link-xer.svg" width="48%" alt="xer — build and run Xcode apps across devices" /></a>
+<a href="https://github.com/anuzsubedi/remote-stats"><img src="assets/link-stats.svg" width="48%" alt="Remote Stats — system monitoring dashboard" /></a>
+<br>
+<a href="https://markdown.anuz.dev"><img src="assets/link-markdown.svg" width="100%" alt="Try Markdown Editor — write, preview, and export documents in your browser" /></a>
+
+<sub>[quickinbox on google play](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) · [remote stats backend](https://github.com/anuzsubedi/remote-stats-server) · [markdown editor source](https://github.com/anuzsubedi/markdown-editor)</sub>
+
+<br>
 
 ### things in my pencil case
 
@@ -45,23 +56,10 @@ this is the project i'm proudest of. the code is private, but [you can visit it 
 
 <br>
 
----
-
 <div align="center">
 
-### thanks for stopping by.
+thanks for stopping by. make yourself at home.
 
-have a project in mind? i'd love to hear about it.<br>
-or, if something i've made has been useful, you can buy me a coffee.
-
-<br>
-
-<a href="https://buymeacoffee.com/anuz"><img src="assets/coffee.svg" width="230" height="55" alt="Buy me a coffee" /></a>
-&nbsp;
-<a href="mailto:hire@anuz.dev"><img src="assets/hire.svg" width="230" height="55" alt="Hire me — hire@anuz.dev" /></a>
-
-<br><br>
-
-[anuz.dev](https://anuz.dev) &nbsp; · &nbsp; [hire@anuz.dev](mailto:hire@anuz.dev)
+[anuz.dev](https://anuz.dev) &nbsp; · &nbsp; [hire@anuz.dev](mailto:hire@anuz.dev) &nbsp; · &nbsp; [stripe](https://profile.stripe.com/@anuz)
 
 </div>
