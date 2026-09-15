@@ -32,11 +32,10 @@ this is the project i'm proudest of. the source is private; [the app is here](ht
 <a href="https://github.com/anuzsubedi/quivnote"><img src="assets/link-quivnote.svg" width="48%" alt="Quivnote — a native macOS menu-bar Markdown notebook" /></a>
 <br>
 <a href="https://github.com/anuzsubedi/xer"><img src="assets/link-xer.svg" width="48%" alt="xer — build and run Xcode apps across devices" /></a>
-<a href="https://github.com/anuzsubedi/remote-stats"><img src="assets/link-stats.svg" width="48%" alt="Remote Stats — system monitoring dashboard" /></a>
 <br>
 <a href="https://markdown.anuz.dev"><img src="assets/link-markdown.svg" width="100%" alt="Try Markdown Editor — write, preview, and export documents in your browser" /></a>
 
-<sub>[quickinbox on google play](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) · [remote stats backend](https://github.com/anuzsubedi/remote-stats-server) · [markdown editor source](https://github.com/anuzsubedi/markdown-editor)</sub>
+<sub>[quickinbox on google play](https://play.google.com/store/apps/details?id=dev.anuz.quickinbox) · [markdown editor source](https://github.com/anuzsubedi/markdown-editor)</sub>
 
 <br>
 
